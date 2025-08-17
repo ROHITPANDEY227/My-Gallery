@@ -27,8 +27,10 @@ A responsive image gallery built with **HTML & CSS** featuring smooth hover effe
 
 ---
 
-## 🚀 Live Demo
-[👉 [View on GitHub Pages] (https://github.com/ROHITPANDEY227/My-Gallery)]
+
+
+## 🚀 Live Demo  
+👉 [View Gallery](https://rohitpandey227.github.io/My-Gallery/) 
 
 
 
